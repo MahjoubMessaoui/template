@@ -1,0 +1,136 @@
+body{
+  
+    background-color: currentColor;
+    padding: 137px;
+}
+
+.oui{
+    
+    background-color: currentColor;
+ 
+}
+
+
+.myclass1{
+  
+    padding: -30px;
+    margin-left: -125px;
+    margin-top: -104px;
+    color: ivory;
+}
+.any1{
+    background-color: cornflowerblue;
+    margin-left: -103px;
+    margin-right: -73px;
+
+}
+
+.myclass2{
+    margin-left: -136px;
+    margin-right: -107px;
+    margin-top: 27px;
+    padding: 7rem !important;
+}
+
+.myclass3{
+    
+    color: seashell;
+    padding: -147px;
+    margin-top: 45px;
+    margin-left: -54px;
+    font-size: 15px;
+    padding: -52px;
+
+}
+.myclass4{
+    padding: 80px;
+    margin-top: -297px;
+    width: 85%;
+    margin-left: 742px;
+
+}
+
+.myclass5{
+    background-color: currentColor;
+}
+.mafa{
+    width: 364px;
+    height: 192px;
+    padding: 27px;
+
+}
+
+.myclass6{
+
+    width: 38px;
+}
+
+.myclasse7{
+    font-size: 1.5rem;
+    padding: 8px;
+    margin-top: -36px;
+    /* margin-right: -83px; */
+    margin-left: 38px;
+    
+    color: aliceblue;
+}
+
+.myclasse8{
+    font-size: 19px;
+    padding: 13px;
+    margin-top: -36px;
+    /* margin-right: -83px; */
+    margin-left: -5px;
+    color: aliceblue;
+}
+.puce{
+    font-family: Arial, sans-serif;
+    font-size: 100%;
+    color: bisque;
+    display : list-item;
+    list-style-image : url(puce.gif);
+
+}
+   
+
+.myclass9{
+    margin-left: -136px;
+    margin-right: -107px;
+    margin-top: 27px;
+    padding: 14rem !important;
+    background-color: darkslategrey !important;
+}
+.myclass10{
+    padding: -29%;
+    margin-top: -193px;
+    margin-left: -179px;
+}
+
+.myclass11{
+    padding: -2px !important;
+  
+    margin-right: 51px !important;
+    margin-left: -170px !important;
+    margin-top: 8px !important;
+}
+
+.myclass12{
+    margin-left: 256px;
+    padding: -120px;
+    padding-top: -65px;
+    margin-top: -204px;
+}
+
+.tito1{
+    width: 146px;
+    height: 112px;
+    margin-top: 79px;
+    margin-left: 90px;
+    padding: 12px;
+}
+
+
+
+.init{
+    margin-right: -194px !important;
+}
